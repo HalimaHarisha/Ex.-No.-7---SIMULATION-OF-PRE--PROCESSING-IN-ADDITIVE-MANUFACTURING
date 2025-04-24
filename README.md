@@ -45,8 +45,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/80ba0c01-872a-4b49-87b1-f924fd1049bf)
+
+
+### Name:HALIMA HARISHA A
+### Register Number:212224040094
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
